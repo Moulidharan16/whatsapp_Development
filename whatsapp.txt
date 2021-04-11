@@ -12,3 +12,7 @@ AUTHOR : MOULIDHARAN
 4.Attachements (Image,Audio,Video) code
 
 5.Hidding the last seen
+
+6.Adding the audio call features
+
+7.Adding the video call features
